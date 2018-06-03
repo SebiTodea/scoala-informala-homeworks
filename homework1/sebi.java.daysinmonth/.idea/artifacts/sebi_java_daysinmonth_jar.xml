@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sebi.java.daysinmonth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sebi_java_daysinmonth_jar</output-path>
+    <root id="archive" name="sebi.java.daysinmonth.jar">
+      <element id="module-output" name="sebi.java.daysinmonth" />
+    </root>
+  </artifact>
+</component>
